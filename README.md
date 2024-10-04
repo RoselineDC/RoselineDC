@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @RoselineDC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <h1>Hi there 👋, my name is ROSELINE DANGAZELA</h1>
 
 
@@ -28,36 +20,36 @@
 
 ### Streak
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=LynneDC">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LynneDC" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=RoselineDC">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RoselineDC" />
 </a>
 
 <br>
 
 ### Contribution History
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LynneDC&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoselineDC&theme=default)
 
 ## Github stats
 
 
-[![](https://raw.githubusercontent.com/LynneDC/LynneDC/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RoselineDC/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LynneDC&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LynneDC&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoselineDC&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoselineDC&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LynneDC&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LynneDC&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoselineDC&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RoselineDC&theme=default&utcOffset=8)
 
 
 
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=LynneDC&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+ <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RoselineDC&column=7)](https://github.com/ryo-ma/github-profile-trophy) --->
 
 ### Social links
-
-[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LynneDC)
+<!--
+[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoselineDC)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roseline-dangazela-441015210?)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](roselinedc1308@gmail.com)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdjoviPericles)
