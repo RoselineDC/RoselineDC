@@ -21,14 +21,26 @@
     </td>
   </tr>
 </table>
+## 📊 GitHub Stats:
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RoselineDC&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoselineDC&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=RoselineDC&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api?username=RoselineDC&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoselineDC&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoselineDC&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=RoselineDC&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RoselineDC&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RoselineDC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
