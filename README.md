@@ -21,7 +21,8 @@
     </td>
   </tr>
 </table>
-## 📊 GitHub Stats:
+
+### 📊 GitHub Stats:
 
 <table>
   <tr>
@@ -31,6 +32,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoselineDC&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
     </td>
+    <td>
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoselineDC&theme=default" />
+    </td>
   </tr>
   <tr>
     <td>
@@ -39,8 +43,12 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=RoselineDC&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
     </td>
+    <td>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoselineDC&theme=default" />
+    </td>
   </tr>
 </table>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RoselineDC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -145,4 +153,12 @@
 ### 🏠 CMS & Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
+
+
+### Social links
+
+[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LynneDC)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roseline-dangazela-441015210?)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](roseline.danga@gmail.com)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdjoviPericles)
 
