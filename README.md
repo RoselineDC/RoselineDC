@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=46&pause=10000&color=000000&vCenter=true&width=700&height=50&lines=I+AM+ROSELINE+DANGAZELA" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=46&pause=5000&color=000000&vCenter=true&width=700&height=50&lines=I+AM+ROSELINE+DANGAZELA" alt="Typing Animation" />
 </h1>
 
 ### Welcome to my GitHub page
