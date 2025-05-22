@@ -1,17 +1,19 @@
-<h1>Hi there 👋, my name is ROSELINE DANGAZELA</h1>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=46&pause=10000&color=000000&vCenter=true&width=700&height=50&lines=I+AM+ROSELINE+DANGAZELA" alt="Typing Animation" />
+</h1>
 
+### Welcome to my GitHub page
 
-### Welcome to my github page
 <table>
   <tr>
     <td>
       <h3>💫 About Me:</h3>
       <ul>
-        <li>🔭 I’m currently working on a AI Automation, web scraper, and an Lavish Lifestyle Web app.</li>
+        <li>🔭 I’m currently working on AI automation, a web scraper, and a Lavish Lifestyle web app.</li>
         <li>👩🏽‍💻 I’m passionate about backend development but also comfortable working across the full stack.</li>
         <li>🧠 I enjoy solving complex problems, experimenting with how things work, and building efficient solutions.</li>
         <li>📚 I’m currently studying Computer Science at the University of the People.</li>
-        <li>💡 I’m also learning about hardware design, how to build single-board computers like the Raspberry Pi.</li>
+        <li>💡 I’m also learning about hardware design and how to build single-board computers like the Raspberry Pi.</li>
         <li>🛠️ Skilled in Python, JavaScript, and C, with experience in frameworks like React and Django.</li>
         <li>✨ I bring curiosity, adaptability, and a strong work ethic to every project I take on.</li>
       </ul>
@@ -22,6 +24,8 @@
   </tr>
 </table>
 
+---
+
 ### 📊 GitHub Stats:
 
 <table>
@@ -29,9 +33,9 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoselineDC&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoselineDC&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
+     <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RoselineDC&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    </td>   
     <td>
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoselineDC&theme=default" />
     </td>
@@ -40,18 +44,22 @@
     <td>
       <img src="https://github-contributor-stats.vercel.app/api?username=RoselineDC&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RoselineDC&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+     <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoselineDC&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
     </td>
     <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoselineDC&theme=default" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoselineDC&theme=default" />
     </td>
   </tr>
 </table>
 
+---
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=RoselineDC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ## 💻 Tech Stack
 
@@ -66,11 +74,6 @@
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<!-- [Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
---->
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -114,13 +117,6 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-<!----
-### 🧠 Data Science / AI
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
----->
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -131,34 +127,3 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-### 🎨 UI/UX & Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
-![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-
-### 🏠 CMS & Platforms
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-
-
-### Social links
-
-[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LynneDC)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roseline-dangazela-441015210?)
-[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](roseline.danga@gmail.com)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdjoviPericles)
-
