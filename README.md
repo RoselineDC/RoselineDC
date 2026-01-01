@@ -8,15 +8,11 @@
   <tr>
     <td>
       <h3>💫 About Me:</h3>
-      <ul>
-        <li>🔭 I’m currently working on AI automation, a web scraper, and a Lavish Lifestyle web app.</li>
-        <li>👩🏽‍💻 I’m passionate about backend development but also comfortable working across the full stack.</li>
-        <li>🧠 I enjoy solving complex problems, experimenting with how things work, and building efficient solutions.</li>
-        <li>📚 I’m currently studying Computer Science at the University of the People.</li>
-        <li>💡 I’m also learning about hardware design and how to build single-board computers like the Raspberry Pi.</li>
-        <li>🛠️ Skilled in Python, JavaScript, and C, with experience in frameworks like React and Django.</li>
-        <li>✨ I bring curiosity, adaptability, and a strong work ethic to every project I take on.</li>
-      </ul>
+      <p>
+        I am a software developer with hands-on experience building modern web applications and automating business processes. I work across the full stack using JavaScript, TypeScript, React, Next.js, and Python, with a strong focus on clean code, performance, and user experience. With a background that blends technical development and real-world operations, I create practical, scalable solutions that improve efficiency and deliver measurable results.
+
+     
+      </p>
     </td>
     <td>
       <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Quote" />
