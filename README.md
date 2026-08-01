@@ -122,15 +122,6 @@ My background blends software development with real-world operations experience,
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=RoselineDC&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=RoselineDC&theme=radical&hide_border=true" alt="GitHub Streak Stats" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoselineDC&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RoselineDC&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
