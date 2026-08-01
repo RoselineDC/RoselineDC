@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 Hi, I'm Roseline Dangazela — a software developer building modern web applications and automating business processes. I work across the full stack with **JavaScript, TypeScript, React, Next.js, and Python**, turning ideas into clean, scalable, production-ready solutions.
 
@@ -17,7 +17,7 @@ My background blends software development with real-world operations experience,
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>🏆 Current Focus</h4>
+      <h4>Current Focus</h4>
       <ul>
         <li>Full-Stack Web Development</li>
         <li>Automation & Scripting</li>
@@ -26,7 +26,7 @@ My background blends software development with real-world operations experience,
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h4>🎯 Strengths</h4>
+      <h4> Strengths</h4>
       <ul>
         <li>Clean, maintainable code</li>
         <li>Performance & optimization</li>
@@ -39,7 +39,7 @@ My background blends software development with real-world operations experience,
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roselinedangazela-95b718324)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoselineDC)
@@ -50,7 +50,7 @@ My background blends software development with real-world operations experience,
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages**
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -116,7 +116,7 @@ My background blends software development with real-world operations experience,
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <table>
   <tr>
@@ -125,7 +125,7 @@ My background blends software development with real-world operations experience,
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 | Project | Tech Stack | Description | Link |
 |---|---|---|---|
@@ -137,7 +137,7 @@ My background blends software development with real-world operations experience,
 ---
 
 <p align="center">
-  🚀 "Building clean code, efficient systems, and better user experiences, one project at a time."
+   "Building clean code, efficient systems, and better user experiences, one project at a time."
 </p>
 
 <p align="center">
