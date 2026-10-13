@@ -113,25 +113,26 @@ I build technology that solves practical problems, transforms data into actionab
 
 ## GitHub Stats
 
+
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=RoselineDC&theme=radical&hide_border=true"
-        alt="Roseline's GitHub Contribution Streak"
-        width="100%"
+        src="https://streak-stats.demolab.com/?user=RoselineDC&theme=radical&hide_border=true"
+        alt="GitHub Contribution Streak"
+        width="400"
       />
     </td>
-    
     <td width="50%" align="center" valign="top">
       <img
         src="https://github-readme-stats.vercel.app/api?username=RoselineDC&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
-        alt="Roseline's GitHub Stats"
-        width="100%"
+        alt="GitHub Statistics"
+        width="400"
       />
     </td>
   </tr>
 </table>
+
 
 
 
