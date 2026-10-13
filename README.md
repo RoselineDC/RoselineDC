@@ -111,22 +111,29 @@ I build technology that solves practical problems, transforms data into actionab
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
 ## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RoselineDC&show_icons=true&theme=radical&hide_border=true"
-    alt="Roseline's GitHub Stats"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=RoselineDC&theme=radical&hide_border=true"
+        alt="Roseline's GitHub Contribution Streak"
+        width="100%"
+      />
+    </td>
+    
+    <td width="50%" align="center" valign="top">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=RoselineDC&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
+        alt="Roseline's GitHub Stats"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RoselineDC&theme=radical&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+
 
 
 
