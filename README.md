@@ -3,35 +3,37 @@
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | Python & JavaScript Enthusiast | Automation & Web Apps Specialist</strong>
+  <strong> Software Developer | Machine Learning Engineer | Automation & Web Apps Specialist</strong>
 </p>
 
 ---
 
 ##  About Me
 
-Hi, I'm Roseline Dangazela — a software developer building modern web applications and automating business processes. I work across the full stack with **JavaScript, TypeScript, React, Next.js, and Python**, turning ideas into clean, scalable, production-ready solutions.
+I'm Roseline Dangazela, a Machine Learning Engineer and Software Developer building intelligent applications, full-stack web solutions, and automated data systems.
 
-My background blends software development with real-world operations experience, which shapes how I build: I care less about clever code and more about code that solves real problems, streamlines workflows, and holds up in production.
+I work with Python, JavaScript, TypeScript, React, Next.js, and SQL to develop scalable applications, build data processing pipelines, and automate complex workflows. My experience spans software engineering, machine learning, web development, and business process automation, including procurement and tender intelligence systems.
 
-<table>
+I build technology that solves practical problems, transforms data into actionable insights, and improves how businesses operate.
+
+ <table>
   <tr>
     <td valign="top" width="50%">
       <h4>Current Focus</h4>
       <ul>
-        <li>Full-Stack Web Development</li>
-        <li>Automation & Scripting</li>
-        <li>Scalable API Design</li>
-        <li>UI/UX Optimization</li>
+        <li>Machine Learning & Intelligent Systems</li>
+        <li>Full-Stack Application Development</li>
+        <li>Data Processing & Workflow Automation</li>
+        <li>API Development & System Integration</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h4> Strengths</h4>
+      <h4>Technical Strengths</h4>
       <ul>
-        <li>Clean, maintainable code</li>
-        <li>Performance & optimization</li>
-        <li>Agile, collaborative workflow</li>
-        <li>Cross-platform solutions</li>
+        <li>Machine Learning & Data-Driven Solutions</li>
+        <li>Clean, Maintainable Software Architecture</li>
+        <li>Automated Data Pipelines & Web Scraping</li>
+        <li>Performance Optimization & Problem-Solving</li>
       </ul>
     </td>
   </tr>
